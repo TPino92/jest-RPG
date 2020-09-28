@@ -1,0 +1,22 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "a command line RPG",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TPino92/jest-RPG.git"
+  },
+  "author": "Trevor Pino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TPino92/jest-RPG/issues"
+  },
+  "homepage": "https://github.com/TPino92/jest-RPG#readme"
+}
